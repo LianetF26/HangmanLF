@@ -1,0 +1,16 @@
+*{
+    text-align: center;
+    border: 10px;
+
+}
+h1{
+    color: lightcoral;
+    font-size: 100px;
+    font-weight: bold;
+}
+h2{
+    color: aquamarine;
+}
+body{
+    background-image: url(http://discovermagazine.com/~/media/Images/Issues/2017/November/20-things-color.jpg)
+}

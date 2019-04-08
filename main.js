@@ -1,7 +1,7 @@
 //GLOBAL VARIABLES (accesssible by all function)
 //---------------------------------------------------------------//
 //Array of Word Options (all lowercase)
-var wordsList = ["tomato", "cucumber", "corn",]
+var wordsList = ["Magenta", "Olive Green", "Yellow",]
 
 //Solution will be held here
 var chooseWord = "";
